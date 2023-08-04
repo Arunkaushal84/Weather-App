@@ -7,7 +7,7 @@ It even saves your search history too for a quick and easy access. Even clear it
 
 ## Links
 **Deployed Link:** [Link to the deployed website!](https://arunkaushal84.github.io/Weather-App/) <br>
-**Github Repo:** [Link to Github repository!]((https://github.com/Arunkaushal84/Weather-App)) <br>
+**Github Repo:** [Link to Github repository!](https://github.com/Arunkaushal84/Weather-App) <br>
 
 ## Previews
 **Website:** <br>
