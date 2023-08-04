@@ -6,8 +6,8 @@ It's very simple, all you have to do is type in the city you want to search and 
 It even saves your search history too for a quick and easy access. Even clear it if you want. <br>
 
 ## Links
-**Deployed Link:** [Link to the deployed website!](https://heaveness.github.io/weather-broadcast/) <br>
-**Github Repo:** [Link to Github repository!](https://github.com/Heaveness/weather-broadcast) <br>
+**Deployed Link:** [Link to the deployed website!](https://arunkaushal84.github.io/Weather-App/) <br>
+**Github Repo:** [Link to Github repository!]((https://github.com/Arunkaushal84/Weather-App)) <br>
 
 ## Previews
 **Website:** <br>
