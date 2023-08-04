@@ -10,8 +10,8 @@ It even saves your search history too for a quick and easy access. Even clear it
 **Github Repo:** [Link to Github repository!](https://github.com/Arunkaushal84/Weather-App) <br>
 
 ## Previews
-**Website:** <br>
-![Website Preview Image.](assets/images/weather-dashboard-preview.png) <br>
+![image](https://github.com/Arunkaushal84/Weather-App/assets/122054710/63235335-4d72-4060-938d-475b34a27c61)
+
 
 ## Credits
 
